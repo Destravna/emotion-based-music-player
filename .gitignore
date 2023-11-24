@@ -1,0 +1,6 @@
+photos/
+server/user_photos/
+server/__pycache__/
+server/.venv/
+server/react-app/node_modules
+server/songs/
